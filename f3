@@ -1,0 +1,10 @@
+ its a final file for git practeice today 
+all the best akhil 
+now you remember 
+
+how ton  create files  (touch & vim to input some content &n save )
+how to add files to stagged area 
+how to commit files by using (git commit -m "commit message" <file name > )
+git status = to see the git details 
+git log - to see the log details 
+
